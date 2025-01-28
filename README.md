@@ -1,0 +1,1 @@
+This repository contains examples of two uncommon errors in MATLAB code. The first example showcases improper error handling, where a generic error message is displayed without specifying the nature of the issue. The second example demonstrates the issue of using an unassigned variable, which can lead to runtime errors.  Solutions are provided in the `bugSolution.m` file.
